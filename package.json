@@ -1,0 +1,22 @@
+{
+  "name": "acumeen-2.0",
+  "version": "1.0.0",
+  "description": "An  e-commerce website for selling only construction related materials",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/202087-Jitendra-Gupta/acumeen.git"
+  },
+  "keywords": [
+    "acumeen"
+  ],
+  "author": "Jitendra Gupta B.Tech CSE 4th Year Central Universiity of Haryana",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/202087-Jitendra-Gupta/acumeen/issues"
+  },
+  "homepage": "https://github.com/202087-Jitendra-Gupta/acumeen#readme"
+}
